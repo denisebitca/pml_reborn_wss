@@ -1,0 +1,20 @@
+{
+  "name": "pml_reborn_wss",
+  "version": "0.1.0",
+  "description": "Websocket server for PML REBORN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.11.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
