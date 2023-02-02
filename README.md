@@ -5,3 +5,5 @@ You need to set process.env.PASSWORD and process.env.PORT.
 Post to DOMAIN/PASSWORD a plain text URL.
 
 i.e if ``process.env.PASSWORD === password`` and ``domain === 42-lockscreen-websocket.glitch.me`` then POST a URL to ``42-lockscreen-websocket.glitch.me/password``
+
+I recommend [Glitch.com](https://glitch.com) to host this. The repo is ready for Glitch.com deployment.
